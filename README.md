@@ -23,6 +23,6 @@
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ldaeteoseywkzmso3j4jegeagy&count=10&album=1&footer=wave)
 
 ### Minha Steam
-<a href="https://steamcommunity.com/id/SEU_USUARIO_STEAM" target="_blank">
-  <img src="https://skillicons.dev/icons?i=steam" width="48" height="48" alt="Steam" />
+<a href="https://steamcommunity.com/id/probablygysta/" target="_blank">
+  <img src="https://img.shields.io/badge/Adicionar%20na%20Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
 </a>
