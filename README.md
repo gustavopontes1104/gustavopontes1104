@@ -21,3 +21,10 @@
 
 ### Minhas músicas // Perfil do Spotify
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ldaeteoseywkzmso3j4jegeagy&count=10&album=1&footer=wave)
+
+### Minha Steam
+<p align="center">
+  <a href="[https://steamcommunity.com/id/SEU_CUSTOM_ID_STEAM](https://steamcommunity.com/id/probablygysta/)">
+    <img src="https://steam-widget.herokuapp.com/widget/probablygysta" alt="Steam Profile Widget" />
+  </a>
+</p>
