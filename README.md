@@ -26,3 +26,4 @@
 <a href="https://steamcommunity.com/id/probablygysta/" target="_blank">
   <img src="https://img.shields.io/badge/Adicionar%20na%20Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
 </a>
+<img width="1668" height="837" alt="image" src="https://github.com/user-attachments/assets/9dd33aa5-9cec-4db5-9b25-e1f9ccf726c7" />
