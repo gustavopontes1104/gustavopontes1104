@@ -18,3 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustavopontes1104&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopontes1104&layout=compact&theme=tokyonight" height="150" />
 </p>
+
+### Minhas músicas // Perfil do Spotify
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ldaeteoseywkzmso3j4jegeagy&count=10&album=1&footer=wave)
