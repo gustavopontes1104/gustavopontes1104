@@ -1,3 +1,4 @@
+<img width="736" height="414" alt="c4ace3a13fcee47d6f89d94dbea2dfc2" src="https://github.com/user-attachments/assets/add953bd-2bb6-48cc-bb66-9733cea3392a" />
 # Oi, meu nome é Gustavo (aka gystapraga)
 
 ###  Rundown:
