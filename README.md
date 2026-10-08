@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Design sem nome (2)" src="https://github.com/user-attachments/assets/d4ceb787-b624-494c-9ff3-d5d03eaa2cc7" />
+<img width="1920" height="1080" alt="github fim" src="https://github.com/user-attachments/assets/1bffc8d7-9417-4603-ad86-caad9c08aabd" />
 
 # Oi, meu nome é Gustavo (aka gystapraga)
 
